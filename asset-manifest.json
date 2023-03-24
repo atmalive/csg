@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c32f0dcf.css",
+    "main.js": "./static/js/main.d5826cf1.js",
+    "static/media/winclassicimg.png": "./static/media/winclassicimg.dff0884417b3f2c8973e.png",
+    "static/media/bg.webp": "./static/media/bg.e8417fb250a82a361895.webp",
+    "static/media/backgroundProfile.webp": "./static/media/backgroundProfile.961a6da93b5f4ea97ef1.webp",
+    "static/media/BlockSkin.webp": "./static/media/BlockSkin.649c7c7f476585908517.webp",
+    "static/media/Manrope-Regular.woff": "./static/media/Manrope-Regular.2b135e5ff0bae6f7c20e.woff",
+    "static/media/Manrope-SemiBold.woff": "./static/media/Manrope-SemiBold.b9a59792aa7186dd8f78.woff",
+    "static/media/Manrope-Medium.woff": "./static/media/Manrope-Medium.0b1d9219581a7c8bd6ac.woff",
+    "static/media/Manrope-Bold.woff": "./static/media/Manrope-Bold.33fd7899bd336a760090.woff",
+    "static/media/Manrope-Light.woff": "./static/media/Manrope-Light.46c8cff2d3a69410982f.woff",
+    "static/media/Manrope-ExtraBold.woff": "./static/media/Manrope-ExtraBold.cbf42bf7e8504a451152.woff",
+    "static/media/Manrope-ExtraLight.woff": "./static/media/Manrope-ExtraLight.3da0fe7fce983b80f5c4.woff",
+    "static/media/Manrope-Medium.woff2": "./static/media/Manrope-Medium.de79433e37b1e90f1d09.woff2",
+    "static/media/Manrope-Bold.woff2": "./static/media/Manrope-Bold.3ce997ec777b05c93854.woff2",
+    "static/media/Manrope-Regular.woff2": "./static/media/Manrope-Regular.7e4f44e2725c4c314be0.woff2",
+    "static/media/Manrope-SemiBold.woff2": "./static/media/Manrope-SemiBold.d050d77ab6d83ee023d5.woff2",
+    "static/media/Manrope-Light.woff2": "./static/media/Manrope-Light.39c997c37f6d14c776a4.woff2",
+    "static/media/Manrope-ExtraBold.woff2": "./static/media/Manrope-ExtraBold.253b75f90bfe6c49b386.woff2",
+    "static/media/Manrope-ExtraLight.woff2": "./static/media/Manrope-ExtraLight.000788d65a9f24230c60.woff2",
+    "static/media/progress-line.png": "./static/media/progress-line.5e0e7b80c17db125dbbf.png",
+    "static/media/logo.webp": "./static/media/logo.1a5eb9f7a86a7ae8d153.webp",
+    "static/media/NewSkin.png": "./static/media/NewSkin.88ac158497a61c568829.png",
+    "static/media/title.webp": "./static/media/title.2f3b0e05f57e8c739caa.webp",
+    "index.html": "./index.html",
+    "static/media/progress-line.svg": "./static/media/progress-line.14817d3549b32d2bb99f.svg",
+    "main.c32f0dcf.css.map": "./static/css/main.c32f0dcf.css.map",
+    "main.d5826cf1.js.map": "./static/js/main.d5826cf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32f0dcf.css",
+    "static/js/main.d5826cf1.js"
+  ]
+}
